@@ -2,6 +2,8 @@
 
 Clickable prototype of the DramaFlash beta app: home feed, vertical player with the episode lock after the cliffhanger, and the unlock flow (coins / subscription / rewarded ad).
 
+**Live demo:** https://fregggggo.github.io/dramaflash-prototype/
+
 ## Run
 
 ```bash
